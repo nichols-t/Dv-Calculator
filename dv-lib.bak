@@ -1,0 +1,5 @@
+#lang racket
+
+;; SIMPLE DELTA-V CALCULATOR
+; this program uses the Tsiolkovsky Rocket Equation to calculate
+; the delta-v (Δv) of a rocket system. 
