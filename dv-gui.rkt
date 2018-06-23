@@ -31,7 +31,7 @@
 
 (define calc-label "Compute")
 
-(define computed-color (make-object color% 200 50 50))
+(define computed-color (make-object color% 240 50 50))
 
 ;; FUNCTIONS
 
